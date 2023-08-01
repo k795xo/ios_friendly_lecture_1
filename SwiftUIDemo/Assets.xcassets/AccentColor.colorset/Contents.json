@@ -1,7 +1,22 @@
 {
   "colors" : [
     {
-      "idiom" : "universal"
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "ipad"
+    },
+    {
+      "idiom" : "car"
+    },
+    {
+      "idiom" : "mac"
+    },
+    {
+      "idiom" : "watch"
+    },
+    {
+      "idiom" : "tv"
     }
   ],
   "info" : {
